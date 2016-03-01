@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Gail Armstrong]]></title>
         <description><![CDATA[Gail Armstrong]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/gail-armstrong/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 01 Mar 2016 15:16:58 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 01 Mar 2016 15:19:01 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/gail-armstrong/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9dc8d778-989c-486a-ba16-22c5a4312205.jpg">]]></description>
-            <link>undefined8d9f9aed-5b92-4f79-854a-8f1ef56ebaf4/index.html</link>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/52ddd74ea8968dc451c921300b7bc3bb697830bf.jpg" alt="" title="">]]></description>
+            <link>https://thegrid.ai/gail-armstrong/8d9f9aed-5b92-4f79-854a-8f1ef56ebaf4/index.html</link>
             <guid isPermaLink="false">8d9f9aed-5b92-4f79-854a-8f1ef56ebaf4</guid>
-            <pubDate>Tue, 01 Mar 2016 15:16:47 GMT</pubDate>
+            <pubDate>Tue, 01 Mar 2016 15:18:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
